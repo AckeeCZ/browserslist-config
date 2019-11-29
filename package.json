@@ -1,0 +1,14 @@
+{
+    "name": "@ackee/browserslist-config",
+    "version": "0.0.1",
+    "description": "Default browsers list supported in our projects at Ackee",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [
+        "browserlist-config",
+        "ackee",
+        "frontend"
+    ],
+    "author": "Jiří Čermák",
+    "license": "MIT"
+}
