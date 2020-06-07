@@ -3,12 +3,22 @@
     "version": "0.0.1",
     "description": "Default browsers list supported in our projects at Ackee",
     "main": "index.js",
-    "scripts": {},
+    "sideEffects": false,
+    "scripts": {
+        "test": "npx browserslist"
+    },
     "keywords": [
         "browserlist-config",
         "ackee",
         "frontend"
     ],
     "author": "Jiří Čermák",
-    "license": "MIT"
+    "license": "MIT",
+    "publishConfig": {
+        "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AckeeCZ/browserslist-config"
+    }
 }

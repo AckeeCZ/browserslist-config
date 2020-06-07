@@ -1,2 +1,3 @@
-# browserslist-config
-Default browsers list supported in our projects at Ackee
+# @ackee/browserslist-config
+
+A default browsers list for our projects in Akcee.
