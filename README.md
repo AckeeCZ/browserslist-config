@@ -20,7 +20,7 @@ Add this to your `package.json`:
 
 ---
 
-# Browserslist with [create-react-app](https://github.com/AckeeCZ/create-react-app)
+# Browserslist in [create-react-app](https://github.com/AckeeCZ/create-react-app)
 
 ## Usage
 
