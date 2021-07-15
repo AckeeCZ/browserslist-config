@@ -1,6 +1,6 @@
 {
     "name": "@ackee/browserslist-config",
-    "version": "1.0.1",
+    "version": "2.0.0",
     "description": "Default browsers list supported in our projects at Ackee",
     "main": "index.js",
     "sideEffects": false,
