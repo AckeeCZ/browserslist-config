@@ -1,6 +1,6 @@
 # @ackee/browserslist-config
 
-A default browsers list for our projects in Akcee - [list of browsers for prod env](https://browserslist.dev/?q=PjAuMiUsIG5vdCBkZWFkLCBub3QgaWUgPD0gMTEsIG5vdCBvcF9taW5pIGFsbCwgbm90IHNhZmFyaSA8PSA4).
+A default browsers list for our projects in Akcee - [list of browsers for prod env](https://browsersl.ist/#q=%3E0.2%25%2C+not+dead%2C+not+ie+%3C%3D+11%2C+not+op_mini+all%2C+not+safari+%3C%3D+14%2C+not+ios+%3C%3D+14+and+supports+flexbox-gap).
 
 More readble version for our PMs and our clients can found [here](https://docs.google.com/document/d/1_SzDspoB9c1RUIVnbx880qxsEfQ5VNKbE33atqXb7Es/edit?usp=sharing).
 
